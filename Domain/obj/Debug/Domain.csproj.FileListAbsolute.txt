@@ -1,0 +1,5 @@
+E:\_ANYBAL\_SchoolOfNet\ASP.NET_WF_ADO\Projeto\ASP.NET\Domain\bin\Debug\Domain.dll
+E:\_ANYBAL\_SchoolOfNet\ASP.NET_WF_ADO\Projeto\ASP.NET\Domain\bin\Debug\Domain.pdb
+E:\_ANYBAL\_SchoolOfNet\ASP.NET_WF_ADO\Projeto\ASP.NET\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache
+E:\_ANYBAL\_SchoolOfNet\ASP.NET_WF_ADO\Projeto\ASP.NET\Domain\obj\Debug\Domain.dll
+E:\_ANYBAL\_SchoolOfNet\ASP.NET_WF_ADO\Projeto\ASP.NET\Domain\obj\Debug\Domain.pdb
